@@ -1,1 +1,1 @@
-https://shurufa.app/zht/ime/xingyue
+https://shurufa.app/zht/ime/lingluan
