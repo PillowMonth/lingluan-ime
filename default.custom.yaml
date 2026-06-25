@@ -1,0 +1,7 @@
+patch:
+  schema_list:
+    - schema: lingluan          # 標準模式
+    - schema: lingluan_fluency  # 語流模式：整句連打、自動成詞
+    # - schema: lingluan_essence  # 整句模式：整句連打、固定候選
+    # - schema: lingluan_pop      # 頂屏模式：候選暫存，延遲頂屏
+    # - schema: lingluan_extreme  # 五碼模式：全碼五碼，日月規則
