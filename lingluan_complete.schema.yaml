@@ -20,7 +20,7 @@ schema:
 
 switches:
   - name: yuhao_autocommit
-    reset: 0
+    reset: 1
     states: [頂真, 瞬閃]
   - options:
       - original
