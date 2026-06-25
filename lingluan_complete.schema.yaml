@@ -138,13 +138,13 @@ simplify:
     - xform/$/〕/
 
 schema_name:
-  code: lingluan
+  code: lingluan_complete
   code_tw: lingluan_tw
   chaifen: lingluan_chaifen
   chaifen_tw: lingluan_chaifen_tw
   chaifen_code_all_roots: true
   max_code_length: 4
-  words: lingluan
+  words: lingluan_complete
 
 ####################  如需關閉快符功能請註釋以下內容  ####################
 speller:
